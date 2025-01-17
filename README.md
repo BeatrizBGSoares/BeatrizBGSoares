@@ -5,7 +5,7 @@
 
 💻 **Apaixonada por modelagem de dados, análise e arquitetura de soluções, com foco em AWS e Azure.**
 
-🔧 **Experiência com Python, C#, .NET, Java, JavaScript, HTML, CSS e SQL.**
+🔧 **Já executei tarefas com Python, C#, .NET, Java, JavaScript, HTML, CSS e SQL.**
 
 🔍 **Atualmente, estou aprofundando meus conhecimentos em Back-end, IA e Análise de Dados.**
 
