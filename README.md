@@ -23,3 +23,6 @@
 - **Frameworks:** .NET, Flask, Django
 
 <p>XoXO, Beatriz</p>
+
+![snake gif](https://github.com/BeatrizBGSoares/BeatrizBGSoares/blob/output/github-contribution-snake.svg)
+
