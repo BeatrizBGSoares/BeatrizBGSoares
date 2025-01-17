@@ -1,16 +1,25 @@
-## Hi there 👋
+<p>Olá, eu sou a Beatriz Gabrielle! 👋</p>
+<img src="https://github.com/BeatrizBGSoares/BeatrizSoares/blob/main/gifmaker_me.gif?raw=true" alt="Minha Imagem" width="150" style="float: right; margin-left: 10px;">
 
-<!--
-**BeatrizBGSoares/BeatrizBGSoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Cursando Bacharelado em Matemática pela Universidade Federal de Pernambuco.**
 
-Here are some ideas to get you started:
+💻 **Apaixonada por modelagem de dados, análise e arquitetura de soluções, com foco em AWS e Azure.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Experiência com Python, C#, .NET, Java, JavaScript, HTML, CSS e SQL.**
+
+🔍 **Atualmente, estou aprofundando meus conhecimentos em Back-end, IA e Análise de Dados.**
+
+🌱 **Sempre aprendendo mais sobre novas tecnologias e boas práticas de programação.**
+
+📂 **No meu perfil, você vai encontrar meus projetos focados em análise de dados, back-end e soluções na nuvem.**
+
+💬 Vamos conversar! [LinkedIn](https://www.linkedin.com/in/beatriz-gabrielle-/)
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens de Programação:** Python, Java, C#, JavaScript, SQL
+- **Frameworks:** .NET, Flask, Django
+
+<p>XoXO, Beatriz</p>
