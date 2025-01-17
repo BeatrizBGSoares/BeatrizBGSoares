@@ -22,6 +22,4 @@
 - **Linguagens de Programação:** Python, Java, C#, JavaScript, SQL
 - **Frameworks:** .NET, Flask, Django
 
-<p>XoXO, Beatriz</p>
-
 
