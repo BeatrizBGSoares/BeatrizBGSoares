@@ -1,5 +1,5 @@
 <p>Olá, eu sou a Beatriz Gabrielle! 👋</p>
-<img src="https://github.com/BeatrizBGSoares/BeatrizSoares/blob/main/gifmaker_me.gif?raw=true" alt="Minha Imagem" width="150" style="float: right; margin-left: 10px;">
+<img src="https://github.com/BeatrizBGSoares/BeatrizBGSoares/blob/main/gifmaker_me.gif?raw=true" alt="Minha Imagem" width="150" style="float: right; margin-left: 10px;">
 
 🎓 **Cursando Bacharelado em Matemática pela Universidade Federal de Pernambuco.**
 
